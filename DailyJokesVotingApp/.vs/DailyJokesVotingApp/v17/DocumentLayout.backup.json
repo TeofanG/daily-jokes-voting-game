@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\components\\jokevotingapp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\components\\jokevotingapp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\components\\jokevotingapp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\components\\jokevotingapp.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\src\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|solutionrelative:src\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57C7BE02-19DF-4A9B-B900-F6CDBDA7F823}|dailyjokesvotingapp.esproj|e:\\dataartworkshop\\dailyjokesvotingapp\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,38 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "server.js",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\server\\server.js",
               "RelativeDocumentMoniker": "src\\server\\server.js",
               "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\server\\server.js",
               "RelativeToolTip": "src\\server\\server.js",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwEQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-16T10:48:02.617Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T18:37:36.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-16T12:13:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "JokeVotingApp.jsx",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\components\\JokeVotingApp.jsx",
               "RelativeDocumentMoniker": "src\\components\\JokeVotingApp.jsx",
-              "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\components\\JokeVotingApp.jsx*",
-              "RelativeToolTip": "src\\components\\JokeVotingApp.jsx*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAwDQAAAAzAAAAAAAAAA==",
+              "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\components\\JokeVotingApp.jsx",
+              "RelativeToolTip": "src\\components\\JokeVotingApp.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-16T10:39:35.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "App.css",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -81,11 +114,12 @@
               "RelativeToolTip": "src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T11:10:38.739Z"
+              "WhenOpened": "2025-02-16T11:10:38.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.jsx",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -93,47 +127,51 @@
               "RelativeToolTip": "src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-16T11:10:37.436Z"
+              "WhenOpened": "2025-02-16T11:10:37.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "index.css",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\index.css",
               "RelativeDocumentMoniker": "src\\index.css",
               "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\index.css",
               "RelativeToolTip": "src\\index.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T11:10:36.13Z"
+              "WhenOpened": "2025-02-16T11:10:36.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "App.jsx",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-16T10:39:46.282Z"
+              "WhenOpened": "2025-02-16T10:39:46.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-16T10:36:06.216Z"
+              "WhenOpened": "2025-02-16T10:36:06.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "launch.json",
               "DocumentMoniker": "E:\\DataArtWorkshop\\DailyJokesVotingApp\\.vscode\\launch.json",
               "RelativeDocumentMoniker": ".vscode\\launch.json",

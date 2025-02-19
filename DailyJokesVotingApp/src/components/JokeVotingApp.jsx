@@ -45,15 +45,16 @@ export default function JokeVotingApp() {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
             <div className="bg-white p-6 rounded-xl shadow-lg w-96 text-center">
-                <h2 className="text-2xl font-bold mb-4">{joke.question}</h2>
-                <p className="text-xl text-gray-700 mb-6">{joke.answer}</p>
-
+                <h1 className="text-2xl font-bold mb-4">{joke.question}</h1>
+                <p className="text-xl text-gray-800 mb-6">{joke.answer}</p>
+                <br></br>
                 {/* Emoji Voting */}
                 <div className="flex justify-center gap-6 mb-4">
                     {(joke?.availableVotes ?? ['\u{1F602}', '\u{1F44D}', '\u2764']).map((emoji) => {
                         const voteCount = joke.votes.find((v) => v.label === emoji)?.value || 0;
                         return (
                             <button
+                                style={{ marginRight: "1em" }}
                                 key={emoji}
                                 onClick={() => handleVote(emoji)}
                                 className="text-3xl hover:scale-110 transition-transform"
@@ -66,6 +67,7 @@ export default function JokeVotingApp() {
 
 
                 {/* Next Joke Button */}
+                <br></br>
                 <button
                     onClick={fetchJoke}
                     className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
